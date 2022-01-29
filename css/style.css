@@ -1,0 +1,31 @@
+@import "null.css";
+h1.title {
+   color:red;
+}
+h1{
+   color:orange
+}
+span.date {
+   color:violet;
+}
+.text.main {
+   color: red;;
+}
+p.text{
+   color:slateblue;
+}
+p span {
+   color:black;
+}
+.content > p{
+   color: darkgreen;
+}
+.block{
+   color: mediumblue;
+}
+ul li {
+   color: maroon;
+}
+.link{
+   color:lightsalmon;
+}
